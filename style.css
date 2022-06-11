@@ -1,0 +1,17 @@
+img{
+    height: 500px;
+    width: 500px;
+}
+h1{
+    text-align:  center;
+    color: red;
+}
+h2{
+    text-align: center;
+}
+h3{
+    text-align: center;
+}
+body{
+    background-image: url(twodudes2.png);
+}
